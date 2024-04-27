@@ -1,0 +1,25 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  margin: 30px;
+}
+.not-found {
+  width: 400px;
+}
+
+.head {
+  font-weight: 800;
+  color: #191919;
+  font-family: roboto;
+  font-size: 20px;
+}
+
+.para {
+  color: #474747;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 450;
+}
